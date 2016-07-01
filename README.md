@@ -15,3 +15,4 @@ $ jupyter notebook
 
 * [Sentinel Application Platform (SNAP)](http://step.esa.int/main/toolboxes/snap/)
 * [Project Jupyter] (http://jupyter.org/)
+* [Sentinel-2 Mission] (https://sentinel.esa.int/web/sentinel/missions/sentinel-2)
