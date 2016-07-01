@@ -5,7 +5,7 @@ This repository contains a set of Jupyter notebook examples for the Earth Observ
 * [How to use the SNAP API from Jupyter](http://nbviewer.jupyter.org/github/crossi-T2/gep-jupyter-notebooks/blob/master/notebooks/snappy%201st%20contact.ipynb)
 * [Sentinel-2 vegetation indices over Camargue](http://nbviewer.jupyter.org/github/crossi-T2/gep-jupyter-notebooks/blob/master/notebooks/Sentinel%202%20Camargue.ipynb)
 
-Or executed with:
+They can be also executed with:
 
 ```
 $ jupyter notebook
